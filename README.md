@@ -6,3 +6,8 @@ Small notepad app allowing creation, editing and sharing of text notes.
 *search functionality to locate specific note  
 *multiple sort functions  
 
+![](noted1.jpg)
+![](noted2.jpg)
+![](noted3.jpg)
+![](noted4.jpg)
+![](noted5.jpg)
